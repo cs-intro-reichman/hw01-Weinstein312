@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddTwo",
+            "request": "launch",
+            "mainClass": "AddTwo",
+            "projectName": "hw01-Weinstein312_7a02bded",
+            "args": ["2", "4"]
+        },
+        {
+            "type": "java",
+            "name": "Coins",
+            "request": "launch",
+            "mainClass": "Coins",
+            "projectName": "hw01-Weinstein312_7a02bded",
+            "args": ["710"]
+        },
+        {
+            "type": "java",
+            "name": "GenThree",
+            "request": "launch",
+            "mainClass": "GenThree",
+            "projectName": "hw01-Weinstein312_7a02bded"
+        },
+        {
+            "type": "java",
+            "name": "GenThreeTest",
+            "request": "launch",
+            "mainClass": "GenThreeTest",
+            "projectName": "hw01-Weinstein312_7a02bded"
+        },
+        {
+            "type": "java",
+            "name": "LinearEq",
+            "request": "launch",
+            "mainClass": "LinearEq",
+            "projectName": "hw01-Weinstein312_7a02bded",
+            "args": ["7", "9","234"]
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "hw01-Weinstein312_7a02bded",
+            "args": ["3", "4","5"]
+        }
+    ]
+}

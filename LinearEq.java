@@ -6,7 +6,7 @@
  */
 public class LinearEq {
 	public static void main(String[] args) {
-		// Put your code here
+		// Take in input 
 		float a = Float.parseFloat(args[0]);
 		float b = Float.parseFloat(args[1]);
 		float c = Float.parseFloat(args[2]);
