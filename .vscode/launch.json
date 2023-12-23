@@ -48,7 +48,7 @@
             "request": "launch",
             "mainClass": "LinearEq",
             "projectName": "hw01-Weinstein312_7a02bded",
-            "args": ["7", "9","234"]
+            "args": ["2", "5","19"]
         },
         {
             "type": "java",
