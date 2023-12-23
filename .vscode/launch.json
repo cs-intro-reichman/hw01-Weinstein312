@@ -32,7 +32,8 @@
             "name": "GenThree",
             "request": "launch",
             "mainClass": "GenThree",
-            "projectName": "hw01-Weinstein312_7a02bded"
+            "projectName": "hw01-Weinstein312_7a02bded",
+            "args": ["1", "100"]
         },
         {
             "type": "java",
